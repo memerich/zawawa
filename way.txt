@@ -1,0 +1,1 @@
+java -Dperdelay=2500 -Ddelay=1 -Drmnwp=false -Dr=false -Dlen=25555 -jar nettybooter.jar ZionCraft.keyubu.com 7 100 340 600 socks4_proxies.txt socks4
